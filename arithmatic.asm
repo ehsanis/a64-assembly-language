@@ -1,6 +1,6 @@
 // Author: Sharif Ehsani
 // Date: Dec 13, 2019
-// www.github.com/ehsanis
+// https://github.com/sharifehsani
 
 /*
 *  This program implements simple arithmatic operations in assembly language
