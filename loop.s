@@ -1,6 +1,6 @@
 // Author: sharif ehsani
 // Date: Dec 13, 2019
-// www.github.com/ehsanis
+// https://github.com/sharifehsani
 
 /*
 * This program implements simple loop in ARMv8 assembly language using macros
