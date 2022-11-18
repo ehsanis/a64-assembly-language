@@ -2,7 +2,7 @@
 * Author: Sharif Ehsani
 * Date: Dec 14, 2019
 * www.gitbuh.com/ehsanis
-* https://sharifehsani.github.io/
+* https://github.com/sharifehsani
 *
 * This program runs on ARMv8 archeticture. assembly language 
 * it prints 2 lines of statements with the first one having a decimal value
